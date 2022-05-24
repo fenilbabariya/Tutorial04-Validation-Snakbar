@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutorial04</string>
+    <string name="login">Login</string>
+    <string name="password">Enter Password</string>
+    <string name="username">Enter Username</string>
+    <string name="welcome">Welcome</string>
+    <string name="tutorial_04">Tutorial 04</string>
+    <string name="splash">Splash</string>
+</resources>
